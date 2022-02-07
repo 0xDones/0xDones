@@ -1,10 +1,32 @@
-### Hi there 👋
+# Denis Policastro - DevOps Architect
 
-[![Status](https://github-readme-stats.vercel.app/api?username=dpolicastro&count_private=true&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpolicastro&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### Top 3
+
+- AWS
+- Kubernetes
+- Terraform
+
+### Programming Languages
+
+- JavaScript/TypeScript (Node.js, Angular)
+- Golang
+- Python
+- Rust (WIP)
+
+### Certifications
+
+- AWS Certified Solutions Architect - Associate
+- CKAD - Cerfified Kubernetes Application Developer
+
+## Status
+[![Status](https://github-readme-stats.vercel.app/api?username=refl3ction&count_private=true&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=refl3ction&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
-**dpolicastro/dpolicastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**refl3ction/refl3ction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,3 +39,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
