@@ -13,7 +13,7 @@ The word DevOps is really meaningful to me, because I have strong development an
 ## 🥇 Skills
 
 - __DevOps/SRE__
-- __AWS__ (Computing, Networking, Security, Storage)
+- __AWS__ - Computing, Networking, Security, Storage
 - __CI/CD Pipelines__ - ArgoCD, AWS CodePipeline, Jenkins, Buildkite, Github Actions, Terraform Cloud
 - __Containers__ - Kubernetes, Docker
 - __Infra as Code__ - Terraform, CloudFormation, Ansible
