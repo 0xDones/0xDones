@@ -6,20 +6,25 @@
   <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/>
 </a>
 
+## About me
+
+The word DevOps is really meaningful to me, because I have strong development and operations skills. I started working as a Full Stack Developer in 2014, and migrated to a DevOps focused role in 2018. I’m used to managing large scale infrastructure on AWS, mainly improving CI/CD processes and running Kubernetes in production environments. I help companies to deliver better software faster, and run them reliably.
+
 ## Skills
 
-### Top 3
+- __DevOps/SRE__
+- __AWS__ (Computing, Networking, Security, Storage)
+- __CI/CD Pipelines__ - ArgoCD, AWS CodePipeline, Jenkins, Buildkite, Github Actions, Terraform Cloud
+- __Containers__ - Kubernetes, Docker
+- __Infra as Code__ - Terraform, CloudFormation, Ansible
+- __Programming__ - JavaScript/TypeScript (Node.js, Angular) - Golang - Python - Bash - Rust
+- __Observability__ - Prometheus, Grafana, Thanos, New Relic, DataDog
+- __Blockchain enthusiast__ - Ethereum/BSC Smart Contracts
 
-- AWS
-- Kubernetes
-- Terraform
+## Projects
 
-### Programming Languages
-
-- JavaScript/TypeScript (Node.js, Angular)
-- Golang
-- Python
-- Rust (WIP)
+- [__tfgen (Go)__](https://github.com/refl3ction/tfgen) - Terragrunt alternative to keep your Terraform code consistent and DRY
+- [__terraform-monorepo-example (Terraform)__](https://github.com/refl3ction/terraform-monorepo-example) - Terraform Monorepo Example 🤷‍♂️
 
 ### Certifications
 
