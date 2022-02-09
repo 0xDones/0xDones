@@ -21,7 +21,7 @@ The word DevOps is really meaningful to me, because I have strong development an
 - __Observability__ - Prometheus, Grafana, Thanos, New Relic, DataDog
 - __Blockchain enthusiast__ - Ethereum/BSC Smart Contracts
 
-### 🤓 Certifications
+## 🤓 Certifications
 
 - AWS Certified Solutions Architect - Associate
 - CKAD - Cerfified Kubernetes Application Developer
