@@ -15,12 +15,23 @@ The word DevOps is really meaningful to me, because I have strong development an
 
 ## 🥇 Skills
 
+<div>
+  <img src="https://img.shields.io/badge/-AWS-grey?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/-Kubernetes-grey?style=for-the-badge&logo=Kubernetes"/>
+  <img src="https://img.shields.io/badge/-Terraform-grey?style=for-the-badge&logo=Terraform"/>
+  <img src="https://img.shields.io/badge/-Node.js-grey?style=for-the-badge&logo=nodedotjs"/>
+  <img src="https://img.shields.io/badge/-Go-grey?style=for-the-badge&logo=go"/>
+  <img src="https://img.shields.io/badge/-Rust-grey?style=for-the-badge&logo=rust"/>
+  <img src="https://img.shields.io/badge/-Ethereum-grey?style=for-the-badge&logo=ethereum"/>
+  <!-- Ref https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
+</div>
+
 - __DevOps/SRE__
 - __AWS__ - Computing, Networking, Security, Storage
 - __CI/CD Pipelines__ - ArgoCD, AWS CodePipeline, Jenkins, Buildkite, Github Actions, Terraform Cloud
 - __Containers__ - Kubernetes, Docker
 - __Infra as Code__ - Terraform, CloudFormation, Ansible
-- __Programming__ - JavaScript/TypeScript (Node.js, Angular) - Golang - Python - Bash - Rust
+- __Programming__ - JavaScript/TypeScript (Node.js, Angular), Golang, Python, Bash, Rust
 - __Observability__ - Prometheus, Grafana, Thanos, New Relic, DataDog
 - __Blockchain enthusiast__ - Ethereum/BSC Smart Contracts
 
