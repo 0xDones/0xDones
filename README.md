@@ -49,6 +49,7 @@ The word DevOps is really meaningful to me, because I have strong development an
 [![lang](https://img.shields.io/github/go-mod/go-version/refl3ction/tfgen.svg)](https://github.com/refl3ction/tfgen)
 
 #### [terraform-monorepo-example](https://github.com/refl3ction/terraform-monorepo-example) - Learn how to design a scalable Terraform monorepo
+
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/refl3ction/terraform-monorepo-example/graphs/commit-activity)
 [![GitHub stars](https://img.shields.io/github/stars/refl3ction/terraform-monorepo-example.svg?style=social&label=Star)](https://github.com/refl3ction/terraform-monorepo-example/stargazers/)
 [![lang](https://img.shields.io/badge/Terraform-~%3E%201.0.0-blue)](https://github.com/refl3ction/tfgen)
@@ -56,10 +57,18 @@ The word DevOps is really meaningful to me, because I have strong development an
 ## :octocat: Github
 
 ### Status
+
 [![Status](https://github-readme-stats.vercel.app/api?username=refl3ction&count_private=true&show_icons=true&include_all_commits=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Top Langs
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=refl3ction&langs_count=7&layout=default&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+### Last but not least
+
+<p align="center">
+  <img width="500" height="500" src="./images/debugging.jpeg" />
+</p>
 
 <!--
 **refl3ction/refl3ction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -75,4 +84,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
