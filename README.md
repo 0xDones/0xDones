@@ -54,6 +54,12 @@ The word DevOps is really meaningful to me, because I have strong development an
 [![GitHub stars](https://img.shields.io/github/stars/refl3ction/terraform-monorepo-example.svg?style=social&label=Star)](https://github.com/refl3ction/terraform-monorepo-example/stargazers/)
 [![lang](https://img.shields.io/badge/Terraform-~%3E%201.0.0-blue)](https://github.com/refl3ction/tfgen)
 
+#### [vampire](https://github.com/refl3ction/vampire) - Vampire uploads secrets/parameters from various sources to various destinations, e.g., .env file to SSM Parameter Store
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/refl3ction/vampire/graphs/commit-activity)
+[![GitHub stars](https://img.shields.io/github/stars/refl3ction/vampire.svg?style=social&label=Star)](https://github.com/refl3ction/vampire/stargazers/)
+[![lang](https://img.shields.io/badge/Rust-1.64.0-red)](https://github.com/refl3ction/vampire)
+
 ## :octocat: Github Stats
 
 <center>
@@ -65,13 +71,13 @@ The word DevOps is really meaningful to me, because I have strong development an
 </table>
 </center>  
 
+<!--
 ## 😆 And last but not least
 
 <p align="center">
   <img width="500" height="500" src="./images/debugging.jpeg" />
 </p>
 
-<!--
 **refl3ction/refl3ction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
