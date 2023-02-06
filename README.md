@@ -11,7 +11,7 @@ __DevOps Architect | Software Engineer | Blockchain Enthusiast__
 
 ## 🧍 About me
 
-The word DevOps is really meaningful to me, because I have strong development and operations skills. I started working as a Full Stack Developer in 2014, and migrated to a DevOps focused role in 2018. I’m used to managing large scale infrastructure on AWS, mainly improving CI/CD processes and running Kubernetes in production environments. I help companies to deliver better software faster, and run them reliably.
+The word DevOps is significant to me because I have strong development and operations skills. I started working as a Full Stack Developer in 2014 and migrated to a DevOps-focused role in 2018. I’m used to managing large-scale infrastructure on AWS using Terraform, improving CI/CD processes, and running Kubernetes in production environments. I help companies to deliver software faster and run them reliably.
 
 ## 🥇 Skills
 
