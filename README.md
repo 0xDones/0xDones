@@ -13,7 +13,7 @@ __DevOps Architect | Software Engineer | Blockchain Enthusiast__
 
 The word DevOps is significant to me because I have strong development and operations skills. I started working as a Full Stack Developer in 2014 and migrated to a DevOps-focused role in 2018. I’m used to managing large-scale infrastructure on AWS using Terraform, improving CI/CD processes, and running Kubernetes in production environments. I help companies to deliver software faster and run them reliably.
 
-## 🥇 Skills
+## 👨‍💻 Skills
 
 <div>
   <img src="https://img.shields.io/badge/-AWS-grey?style=for-the-badge&logo=amazonaws"/>
@@ -35,7 +35,7 @@ The word DevOps is significant to me because I have strong development and opera
 - __Observability__ - Prometheus, Grafana, Thanos, New Relic, DataDog
 - __Blockchain enthusiast__ - Ethereum/BSC Smart Contracts
 
-## 🤓 Certifications
+## 🥇 Certifications
 
 - AWS Certified Solutions Architect - Associate
 - CKAD - Cerfified Kubernetes Application Developer
