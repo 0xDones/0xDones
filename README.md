@@ -8,10 +8,13 @@ __DevOps & Platform Engineer | AWS | Kubernetes | Terraform | Blockchain Enthusi
 <a href= "mailto:denis.policastro@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/>
 </a>
+<a href= "https://dones.io">
+  <img src="https://img.shields.io/website/https/dones.io.svg"/>
+</a>
 
 ## 🧍 About me
 
-The word DevOps is significant to me because I have strong development and operations skills. I started working as a Full Stack Developer in 2014 and migrated to a DevOps-focused role in 2018. I’m used to managing large-scale infrastructure on AWS using Terraform, improving CI/CD processes, and running Kubernetes in production environments. I help companies to deliver software faster and run them reliably.
+The word DevOps is significant to me because I have strong development and operations skills. I started working as a Full Stack Developer in 2014 and changed to a DevOps-focused role in 2018. I have been deploying resources on AWS using Terraform since then, creating CI/CD pipelines, and running Kubernetes in production environments. I helped hundreds of developers to have a better experience with operations, allowing them to deliver better software. My development skills help me a lot with those tasks.
 
 ## 👨‍💻 Skills
 
