@@ -14,7 +14,14 @@ __DevOps & Platform Engineer | AWS | Kubernetes | Terraform | Blockchain Enthusi
 
 ## 🧍 About me
 
-The word DevOps is significant to me because I have strong development and operations skills. I started working as a Full Stack Developer in 2014 and changed to a DevOps-focused role in 2018. I have been deploying resources on AWS using Terraform since then, creating CI/CD pipelines, and running Kubernetes in production environments. I helped hundreds of developers to have a better experience with operations, allowing them to deliver better software. My development skills help me a lot with those tasks.
+The word DevOps is significant to me because I have strong
+development and operations skills. I started working as a Full Stack
+Developer in 2014 and changed to a DevOps-focused role in 2018, and
+since then, I have been working closely to developers, deploying
+resources on AWS using Terraform, creating CI/CD pipelines, and
+running Kubernetes in production environments. I helped hundreds of
+developers to have a better experience with operations, providing them
+what they need to do their job.
 
 ## 👨‍💻 Skills
 
