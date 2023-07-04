@@ -73,8 +73,8 @@ what they need to do their job.
 ## :octocat: Github Stats
 
 <div style="height: 500px;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refl3ction&langs_count=7&theme=vue" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=refl3ction&count_private=true&show_icons=true&include_all_commits=true&theme=vue"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refl3ction&langs_count=7&theme=buefy" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=refl3ction&count_private=true&show_icons=true&include_all_commits=true&theme=buefy"/>
 </div>
 
 <!--
