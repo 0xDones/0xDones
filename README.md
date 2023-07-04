@@ -52,14 +52,9 @@ what they need to do their job.
 
 ## 🌐 Open Source Projects
 
-<div>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/pin/?username=refl3ction&repo=tfgen" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/pin/?username=refl3ction&repo=terraform-monorepo-example" />
-</div>
-
-<div>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/pin/?username=refl3ction&repo=vampire" />
-</div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refl3ction&repo=tfgen)](https://github.com/refl3ction/tfgen)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refl3ction&repo=terraform-monorepo-example)](https://github.com/refl3ction/terraform-monorepo-example)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refl3ction&repo=vampire)](https://github.com/refl3ction/vampire)
 
 ## :octocat: Github Stats
 
