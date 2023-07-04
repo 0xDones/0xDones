@@ -75,7 +75,7 @@ what they need to do their job.
 <center>
 <table>
     <tr>
-        <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refl3ction&langs_count=7&layout=default&theme=vue" /></td>
+        <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refl3ction&langs_count=7" /></td>
         <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=refl3ction&count_private=true&show_icons=true&include_all_commits=true&theme=vue"/></td>
     </tr>   
 </table>
