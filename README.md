@@ -52,23 +52,14 @@ what they need to do their job.
 
 ## 🌐 Open Source Projects
 
-#### [tfgen](https://github.com/refl3ction/tfgen) - Terragrunt alternative to keep your Terraform code consistent and DRY
+<div>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/pin/?username=refl3ction&repo=tfgen" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/pin/?username=refl3ction&repo=terraform-monorepo-example" />
+</div>
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/refl3ction/tfgen/graphs/commit-activity)
-[![GitHub stars](https://img.shields.io/github/stars/refl3ction/tfgen.svg?style=social&label=Star)](https://github.com/refl3ction/tfgen/stargazers/)
-[![lang](https://img.shields.io/github/go-mod/go-version/refl3ction/tfgen.svg)](https://github.com/refl3ction/tfgen)
-
-#### [terraform-monorepo-example](https://github.com/refl3ction/terraform-monorepo-example) - Learn how to design a scalable Terraform monorepo
-
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/refl3ction/terraform-monorepo-example/graphs/commit-activity)
-[![GitHub stars](https://img.shields.io/github/stars/refl3ction/terraform-monorepo-example.svg?style=social&label=Star)](https://github.com/refl3ction/terraform-monorepo-example/stargazers/)
-[![lang](https://img.shields.io/badge/Terraform-~%3E%201.0.0-blue)](https://github.com/refl3ction/tfgen)
-
-#### [vampire](https://github.com/refl3ction/vampire) - Vampire uploads secrets/parameters from various sources to various destinations, e.g., .env file to SSM Parameter Store
-
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/refl3ction/vampire/graphs/commit-activity)
-[![GitHub stars](https://img.shields.io/github/stars/refl3ction/vampire.svg?style=social&label=Star)](https://github.com/refl3ction/vampire/stargazers/)
-[![lang](https://img.shields.io/badge/Rust-1.64.0-red)](https://github.com/refl3ction/vampire)
+<div>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/pin/?username=refl3ction&repo=vampire" />
+</div>
 
 ## :octocat: Github Stats
 
