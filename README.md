@@ -50,7 +50,7 @@ particularly in maintaining blockchain infrastructure, like Ethereum nodes, whic
 - __Infra as Code__ - Terraform, CloudFormation, Ansible
 - __Programming__ - JavaScript/TypeScript (Node.js, Angular), Golang, Python, Bash, Rust
 - __Observability__ - Prometheus, Grafana, Thanos, New Relic, DataDog
-- __Blockchain enthusiast__ - Ethereum/BSC Smart Contracts
+- __Blockchain__ - Ethereum Node Operations
 
 ## 🥇 Certifications
 
