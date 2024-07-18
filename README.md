@@ -57,18 +57,22 @@ particularly in maintaining blockchain infrastructure, like Ethereum nodes, whic
 - AWS Certified Solutions Architect - Associate
 - CKAD - Cerfified Kubernetes Application Developer
 
+<!--
 ## 🌐 Open Source Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refl3ction&repo=tfgen)](https://github.com/refl3ction/tfgen)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refl3ction&repo=terraform-monorepo-example)](https://github.com/refl3ction/terraform-monorepo-example)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refl3ction&repo=vampire)](https://github.com/refl3ction/vampire)
+-->
 
+<!--
 ## :octocat: Github Stats
 
 <div style="height: 500px;">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refl3ction&langs_count=7&theme=buefy" />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=refl3ction&count_private=true&show_icons=true&include_all_commits=true&theme=buefy"/>
 </div>
+-->
 
 <!--
 ## 😆 And last but not least
