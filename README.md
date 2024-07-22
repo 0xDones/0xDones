@@ -56,22 +56,29 @@ particularly in maintaining blockchain infrastructure, like Ethereum nodes, whic
 
 - AWS Certified Solutions Architect - Associate
 - CKAD - Cerfified Kubernetes Application Developer
+- 
+## :octocat: Github Stats
+
+<p valign="top" align="center">
+  <img width="400px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=0xDones&show_icons=true&line_height=28&hide_border=false&include_all_commits=true&role=owner,collaborator&show=&rank_icon=percentile&theme=ayu-mirage&hide_title=true" hspace="10" />
+  <img width="400px" src="https://streak-stats.demolab.com/?user=0xDones&theme=ayu-mirage&exclude_days=Sun%2CSat&height=400" hspace="10" />
+</p>
+<div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=0xDones&label=Profile%20views&color=blue&style=for-the-badge&logo=star&base=123456" alt="0xDones" style="padding-right:20px;" />
+</p>
+</div>
 
 <!--
 ## 🌐 Open Source Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refl3ction&repo=tfgen)](https://github.com/refl3ction/tfgen)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refl3ction&repo=terraform-monorepo-example)](https://github.com/refl3ction/terraform-monorepo-example)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refl3ction&repo=vampire)](https://github.com/refl3ction/vampire)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xDones&repo=tfgen)](https://github.com/0xDones/tfgen)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xDones&repo=terraform-monorepo-example)](https://github.com/0xDones/terraform-monorepo-example)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xDones&repo=vampire)](https://github.com/0xDones/vampire)
 -->
 
 <!--
-## :octocat: Github Stats
 
-<div style="height: 500px;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refl3ction&langs_count=7&theme=buefy" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=refl3ction&count_private=true&show_icons=true&include_all_commits=true&theme=buefy"/>
-</div>
 -->
 
 <!--
@@ -81,7 +88,7 @@ particularly in maintaining blockchain infrastructure, like Ethereum nodes, whic
   <img width="500" height="500" src="./images/debugging.jpeg" />
 </p>
 
-**refl3ction/refl3ction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**0xDones/0xDones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -93,4 +100,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+<img width="auto" src="https://github-profile-trophy.vercel.app/?username=0xDones&theme=onedark&rank=-C&v=128&margin-w=10&margin-h=10" />
+</p>
+
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="auto"  src="https://skillicons.dev/icons?i=redhat,java,c,cs,cpp,dotnet,go,lua,py,ruby,openshift,openstack,maven,cmake,gradle,spring,kafka,kubernetes,git,github,githubactions,gitlab,linux,ubuntu,windows,nginx,idea,clion,vscode,eclipse,visualstudio,docker,aws,hibernate,postgres,mysql,mongodb,rabbitmq,redis,md,angular,js,html,css,react,bootstrap,nodejs,jquery,godot,unity,unreal,ai,pytorch,tensorflow&perline=18"  />
+</p>
 -->
