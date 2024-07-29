@@ -64,10 +64,6 @@ particularly in maintaining blockchain infrastructure, like Ethereum nodes, whic
   <img width="400px" src="https://streak-stats.demolab.com/?user=0xDones&theme=ayu-mirage&exclude_days=Sun%2CSat&height=400" hspace="10" />
 </p>
 <div>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=0xDones&label=Profile%20views&color=blue&style=for-the-badge&logo=star&base=123456" alt="0xDones" style="padding-right:20px;" />
-</p>
-</div>
 
 <!--
 ## 🌐 Open Source Projects
