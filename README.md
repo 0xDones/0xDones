@@ -1,6 +1,6 @@
 # Denis Policastro
 
-__DevOps & Platform Engineer | AWS | Kubernetes | Terraform | Blockchain Enthusiast__
+__DevOps & Platform Engineer | AWS | Kubernetes | Terraform | Blockchain Node Operator (Ethereum, Cosmos)__
 
 <a href= "https://www.linkedin.com/in/dpolicastro/">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
