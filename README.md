@@ -56,7 +56,7 @@ particularly in maintaining blockchain infrastructure, like Ethereum nodes, whic
 
 - AWS Certified Solutions Architect - Associate
 - CKAD - Cerfified Kubernetes Application Developer
-- 
+
 ## :octocat: Github Stats
 
 <p valign="top" align="center">
